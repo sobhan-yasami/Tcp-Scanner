@@ -12,8 +12,8 @@ This is a simple TCP port scanner written in Go. It scans a range of ports (1-10
 To use this tool, you need to have Go installed on your system.
 ### 1) Clone the repository (if not already cloned):
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/sobhan-yasami/Tcp-Scanner.git
+cd Tcp-Scanner
 ```
 ### 2) Build the application:
 ```bash
